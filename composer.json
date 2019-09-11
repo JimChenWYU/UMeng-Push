@@ -1,5 +1,5 @@
 {
-    "name": "hedeqiang\/umeng",
+    "name": "jimchen\/umeng",
     "keywords": [
         "umeng",
         "友盟",
@@ -11,8 +11,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "hedeqiang",
-            "email": "laravel_code@163.com"
+            "name": "JimChen",
+            "email": "imjimchen@163.com"
         }
     ],
     "require": {
