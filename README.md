@@ -10,7 +10,7 @@
 ## Installing
 
 ```shell
-$ composer require hedeqiang/umeng -vvv
+$ composer require jimchen/umeng -vvv
 ```
 ## 配置
 在使用本扩展之前，你需要去 [友盟+](https://message.umeng.com) 注册账号，然后创建应用，获取应用的 Key 和秘钥。
