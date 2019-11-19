@@ -40,7 +40,7 @@ abstract class AndroidNotification extends UmengNotification
     // Keys can be set in the body level
     protected $BODY_KEYS = [
         'ticker', 'title', 'text', 'builder_id', 'icon', 'largeIcon', 'img', 'sound', 'play_vibrate', 'play_lights', 'play_sound', 'after_open', 'url',
-        'activity', 'custom',
+        'activity', 'custom', 'expand_image',
     ];
 
     public function __construct()
